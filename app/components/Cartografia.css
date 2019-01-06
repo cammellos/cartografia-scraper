@@ -1,0 +1,14 @@
+.backButton {
+  position: absolute;
+}
+
+.itemsSection {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.cartografiaContent {
+  overflow: auto;
+  padding-top: 20px;
+  height: 100%;
+}
